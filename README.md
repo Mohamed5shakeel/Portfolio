@@ -1,8 +1,8 @@
 # Ex01 Portfolio
 ## Date: 14-03-25
-SWETHA A
-212223220114
-B.TECH IT
+MOHAMED SHAKEEL S
+212221060167
+B.E ECE
 
 ## AIM
 To create a Portfolio using HTML and CSS.
