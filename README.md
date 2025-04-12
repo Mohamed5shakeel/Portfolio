@@ -352,9 +352,8 @@ nav ul li a {
 ## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/855f439a-1872-4310-9520-fe3eeed7f01c)
+![image](https://github.com/user-attachments/assets/d47a307b-b287-40a3-b335-13b42d4ae996)
 
-![Screenshot 2025-03-14 181854](https://github.com/user-attachments/assets/643d0809-da3c-4a30-8947-458ae16acabe)
-![Screenshot 2025-03-14 184242](https://github.com/user-attachments/assets/1e111c79-1015-4990-8c80-791278340c7c)
 
 
 
